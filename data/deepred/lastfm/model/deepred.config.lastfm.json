@@ -1,0 +1,1 @@
+{"nbr_size": 50, "dim": 128, "reg_cof": 0.78, "dropout": 0.7, "train_rate": 0.8, "val_rate": 0.1}
