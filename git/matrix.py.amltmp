@@ -1,0 +1,7 @@
+from sklearn.metrics import confusion_matrix
+import pandas as pd
+
+dataset_pre = pd.read_pickle("./git/jodie/data/lastfm.csv")
+dataset_post = pd.read_pickle("./git/jodie/results/batches_lastfm.csv")-
+
+print(dataset_pre) 
